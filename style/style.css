@@ -67,7 +67,7 @@ div.End ul{
 }
 
 div.End ul li{
-	line-height:26px;
+	line-height:40px;
 	color:#800000;
 	font-weight:bold;
 	border-bottom:1px #FF8080 dashed;
@@ -75,7 +75,7 @@ div.End ul li{
 
 div.End ul li span{
 	padding:0 9px;
-	font-size:15px;
+	font-size:50px;
 	word-wrap:break-word;
 }
 
@@ -98,7 +98,7 @@ h2.title{
 	margin-top:20px;
 	margin-bottom: 20px;
 	font-size:48px;
-	color: #800000;
+	color: #DC143C;
 	line-height:28px;
 	font-weight: bolder;
 }
@@ -111,7 +111,7 @@ h2.title{
 	height:270px;
 	margin:170px 15px 0 15px;
 	/*background-image:url('images/bg.gif');*/
-	background-color: rgb(255,255,255);
+	background-color: rgb(255,240,245);
 	background-color: rgba(255,255,255,0.85);
 	rgba(0,0,0,0);
 	filter:Alpha(Opacity=85);
@@ -168,7 +168,7 @@ h2.title{
 #out #tableOUT{
 	overflow-x:hidden;
 	overflow-y:auto;
-	height:235px;
+	height:435px;
 	padding-top:10px;
 }
 
@@ -176,12 +176,13 @@ h2.title{
 	padding:0 10px;
 	line-height:20px;
 	font-weight:bolder;
+	font-size:50px;
 }
 
 #out .oMain{
 	padding:0 5px;
-	line-height:20px;
-	font-size:14px;
+	line-height:50px;
+	font-size:50px;
 }
 
 #out li{
